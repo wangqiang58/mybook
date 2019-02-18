@@ -6,4 +6,5 @@
       * [文章3](wen-zhang-3.md)
     * [平台建设2](ping-tai-jian-she.md)
   * [ios文档](wen-zhang-4.md)
+* git规范
 
