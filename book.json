@@ -1,0 +1,6 @@
+{
+    "plugins": ["expandable-chapters-small",
+                "splitter",
+                "page-footer-ex"
+               ]
+}
